@@ -74,24 +74,23 @@
         , "14": "E"
         , "15": "F"
       }
-      , value = value.toString()
+    value = value.toString()
 
-    if (value.length === 1) {
+    if (value.length === 1)
       return "0" + value
 
-    } else if (value.length === 3) {
+    else if (value.length === 3) {
       var value1 = value.slice(0,2)
 
-      if (hexLetters[value1]) {
+      if (hexLetters[value1])
         value1 = hexLetters[value1]
-      } else {
+      else
         value1 = "F"
-      }
+
       return value1 + value.slice(2,3)
 
-    } else {
+    } else
       return value
-    }
   }
 
   ColorPlane.fn.showColor = function(hexColor) {
