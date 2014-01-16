@@ -1,7 +1,12 @@
 // *********************************
 //
 //   Colorplane - by Daniel Zarick
+//   Repo: https://github.com/danielzarick/Colorplane
 //   for more: http://33cc77.com
+//
+//   Forked by Jeremiah Senkpiel
+//   Source commit: d0555e079e2dbdbfe9a54f3289b21c8fd7aed738
+//   Current fork version: 0.0.0
 //
 // *********************************
 
