@@ -1,0 +1,21 @@
+{
+  "name": "Colorplane",
+  "description": "A color picker for humans. Built with canvas & javascript.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Daniel Zarick",
+    "email": "daniel@33cc77.com",
+    "url": "http://33cc77.com",
+    "twitter": "https://twitter.com/DanielZarick"
+  },
+  "contributors": {
+    "name": "Jeremiah Senkpiel",
+    "email": "fishrock123@rocketmail.com",
+    "url": "https://searchbeam.jit.su",
+    "twitter": "https://twitter.com/fishrock123"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fishrock123/colorplane.git"
+  }
+}
